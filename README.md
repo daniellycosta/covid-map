@@ -1,5 +1,7 @@
 # Covid Map
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fae2ef41-2f34-4d87-80a3-59fe0bb61e7e/deploy-status)](https://app.netlify.com/sites/danielly-covid-map/deploys)
+
 A software that allows users to see covid statistics of a selected country
 
 ![sample](sample.GIF)
