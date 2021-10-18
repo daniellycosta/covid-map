@@ -4,6 +4,8 @@
 
 A software that allows users to see covid statistics of a selected country
 
+**P.S.:** The API used doesn't have some countries coordinates set correctly.
+
 ![sample](sample.GIF)
 
 ## Content Table
